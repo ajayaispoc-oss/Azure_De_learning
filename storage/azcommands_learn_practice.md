@@ -33,6 +33,7 @@ az storage blob list --account-name ajayprojects --container-name filescnt --out
 # 10. Delete Files in a Storage Account
 az storage blob delete --account-name ajayprojects --container-name filescnt --name "myfolder/test.csv" --auth-mode login
 
+**NOTE : **
 if unable to upload file to storage account use either SAS key or connection string:
 using sas key :
 
