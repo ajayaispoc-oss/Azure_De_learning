@@ -1,5 +1,6 @@
 #!/bin/bash
 # usage
+$ sh upload_to_blob.sh filename_to_upload.csv blob_name
 #sh upload_to_blob.sh T20-GL-gainers-NIFTY-31-Aug-2026.csv T20_top_gainers
 # sh upload_to_blob.sh T20-GL-gainers-NIFTY-31-Aug-2026.csv stocks/T20_top_gainers
 # Configuration Variables
